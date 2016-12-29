@@ -41,6 +41,7 @@
     }
   },
   "defaults": {
+    "poll": "100",
     "styleExt": "css",
     "prefixInterfaces": false,
     "inline": {
