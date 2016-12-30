@@ -8,7 +8,6 @@ src/aot
 
 # dependencies
 /node_modules
-yarn.lock
 
 # IDEs and editors
 /.idea
